@@ -1,5 +1,5 @@
 {
-    "name": "wsproxy",
+    "name": "websocket-open-dev",
     "description": "这个是wsproxy的包，用于开发环境下的websocket代理，用于ws转发，解决跨域问题",
     "version": "1.0.0",
     "author": "Luke",
@@ -11,9 +11,6 @@
         "url": "https://github.com/hxgzs/websocket-open-dev/issues"
     },
     "main": "app.js",
-    "bin": {
-        "wsproxy": "./app.js"
-    },
     "dependencies": {
         "ws": "^8.16.0"
     },
@@ -25,6 +22,6 @@
         "node": ">=16.0.0"
     },
     "keywords": [
-        "wsproxy"
+        "websocket-open-dev"
     ]
 }
